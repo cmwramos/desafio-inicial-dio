@@ -1,4 +1,4 @@
-let comando = gets(); 
+ let comando = gets(); 
 
 if (comando === "start"){
     console.log("Bot Started");
